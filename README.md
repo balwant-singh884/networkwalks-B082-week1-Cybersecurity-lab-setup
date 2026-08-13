@@ -1,1 +1,5 @@
-# networkwalks-B082-week1-Cybersecurity-lab-setup
+💻 Cybersecurity Lab Environment Setup
+
+NetworkWalks – Week 01 | Cybersecurity Lab Setup
+
+VMware Workstation • Kali Linux • Virtual Networking • Linux Networking
