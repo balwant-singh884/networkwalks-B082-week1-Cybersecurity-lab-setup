@@ -373,7 +373,7 @@ confirming successful connection to the isolated laboratory network.
 📹 Demo Video:
 
 ```text
-ADD VIDEO LINK HERE
+
 ```
 
 ---
